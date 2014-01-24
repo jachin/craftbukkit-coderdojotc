@@ -1,4 +1,6 @@
+.DS_Store
 server.log*
 world
 world_the_end
-
+banned-ips*
+banned-players*
